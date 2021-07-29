@@ -1,0 +1,2 @@
+bu proje java ile yapildi 
+ve php kullandi veri tabaninda
